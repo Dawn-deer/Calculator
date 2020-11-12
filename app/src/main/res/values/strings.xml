@@ -1,0 +1,89 @@
+<?xml version="1.0"?>
+
+<resources>
+
+    <string name="app_name">calculator</string>
+
+    <string name="input">请输入</string>
+
+    <string name="output">结果</string>
+
+    <string name="daoshu">1/x</string>
+    <string name="cifang">x^n</string>
+
+    <string name="jiecheng">x!</string>
+
+    <string name="clear">清空</string>
+
+    <string name="back">返回</string>
+
+    <string name="genhaox">√x</string>
+
+    <string name="xfang">x^2</string>
+
+    <string name="abs">abs</string>
+
+    <string name="baifenhao">%</string>
+
+    <string name="chu">/</string>
+
+    <string name="lnx">lnx</string>
+
+    <string name="logx">logx</string>
+
+    <string name="sinx">sinx</string>
+
+    <string name="cosx">cosx</string>
+
+    <string name="cheng">*</string>
+
+    <string name="jia">+</string>
+
+    <string name="jian">-</string>
+
+    <string name="dengyu">=</string>
+
+    <string name="dot">.</string>
+
+    <string name="pai">π</string>
+
+    <string name="zero">0</string>
+
+    <string name="one">1</string>
+
+    <string name="two">2</string>
+
+    <string name="three">3</string>
+
+    <string name="four">4</string>
+
+    <string name="five">5</string>
+
+    <string name="six">6</string>
+
+    <string name="seven">7</string>
+
+    <string name="eight">8</string>
+
+    <string name="nine">9</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_changdu">Changdu</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_tiji">Tiji</string>
+    <string name="title_activity_help">Help</string>
+    <string name="title_activity_jinzhi">Jinzhi</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+
+</resources>
